@@ -1,0 +1,15 @@
+{
+  "name": "atbash-encrpyt-use-js",
+  "version": "1.0.0",
+  "description": "dibuat pada 14/09/2023 21:54",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Haydar Hilmy",
+  "license": "ISC",
+  "dependencies": {
+    "encrypt": "^0.0.1"
+  }
+}
